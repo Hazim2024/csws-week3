@@ -17,4 +17,6 @@ for i in range(0,20):
         print(i)
 
 #4-7
-
+for n in range(3,31):
+    print (n,"x 3=",n*3)
+print("End of the list")
